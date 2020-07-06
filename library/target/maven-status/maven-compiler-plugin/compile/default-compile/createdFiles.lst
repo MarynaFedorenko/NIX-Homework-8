@@ -1,0 +1,8 @@
+nix\util\InsertionSort.class
+nix\util\QuickSort.class
+nix\util\MergeSort.class
+nix\util\SelectionSort.class
+nix\util\ShuttleSort.class
+nix\util\ShellSort.class
+nix\util\BubbleSort.class
+nix\util\abstr\Sorting.class

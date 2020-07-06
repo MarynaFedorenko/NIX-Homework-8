@@ -1,0 +1,8 @@
+2020-07-06 19:52:03 INFO  [main]: Algorithm: class nix.util.BubbleSort  time: 29923878651
+2020-07-06 19:52:03 INFO  [main]: Algorithm: class nix.util.InsertionSort  time: 5763196
+2020-07-06 19:52:13 INFO  [main]: Algorithm: class nix.util.MergeSort  time: 9505409661
+2020-07-06 19:52:13 INFO  [main]: Algorithm: class nix.util.QuickSort  time: 21724785
+2020-07-06 19:52:15 INFO  [main]: Algorithm: class nix.util.SelectionSort  time: 1823263210
+2020-07-06 19:52:29 INFO  [main]: Algorithm: class nix.util.ShellSort  time: 13849910809
+2020-07-06 19:52:29 INFO  [main]: Algorithm: class nix.util.ShuttleSort  time: 2790842
+2020-07-06 19:52:29 INFO  [main]: Algorithm: java.Collections  time: 105312651
